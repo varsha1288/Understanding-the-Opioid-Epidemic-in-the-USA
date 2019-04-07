@@ -1,4 +1,4 @@
-# Visualization---Understanding-the-Opioid-Epidemic-in-the-USA
+# Understanding the Opioid Epidemic in the USA
 
 Please click this link to view: https://varsha1288.github.io/Opioids%20Epidemic%20Analysis/Module%201%20Opioid%20Deaths.html
 
